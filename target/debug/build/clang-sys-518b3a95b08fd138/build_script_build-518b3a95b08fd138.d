@@ -1,0 +1,9 @@
+D:\exp\bad  apple\target\debug\build\clang-sys-518b3a95b08fd138\build_script_build-518b3a95b08fd138.exe: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\macros.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\common.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\dynamic.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\static.rs
+
+D:\exp\bad  apple\target\debug\build\clang-sys-518b3a95b08fd138\build_script_build-518b3a95b08fd138.d: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\macros.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\common.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\dynamic.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\static.rs
+
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\macros.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\common.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\dynamic.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clang-sys-1.7.0\build\static.rs:

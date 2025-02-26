@@ -1,0 +1,10 @@
+D:\exp\bad  apple\target\debug\deps\libwindows_result-e946dfbc5ef5a326.rmeta: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\bindings.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\com.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\strings.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\error.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\hresult.rs
+
+D:\exp\bad  apple\target\debug\deps\windows_result-e946dfbc5ef5a326.d: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\bindings.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\com.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\strings.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\error.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\hresult.rs
+
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\lib.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\bindings.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\com.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\strings.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\error.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-result-0.1.1\src\hresult.rs:

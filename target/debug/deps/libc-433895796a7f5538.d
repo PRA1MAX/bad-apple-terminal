@@ -1,0 +1,11 @@
+D:\exp\bad  apple\target\debug\deps\liblibc-433895796a7f5538.rmeta: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src/lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\macros.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\fixed_width_ints.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\mod.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\msvc\mod.rs
+
+D:\exp\bad  apple\target\debug\deps\liblibc-433895796a7f5538.rlib: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src/lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\macros.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\fixed_width_ints.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\mod.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\msvc\mod.rs
+
+D:\exp\bad  apple\target\debug\deps\libc-433895796a7f5538.d: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src/lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\macros.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\fixed_width_ints.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\mod.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\msvc\mod.rs
+
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src/lib.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\macros.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\fixed_width_ints.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\mod.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.155\src\windows\msvc\mod.rs:

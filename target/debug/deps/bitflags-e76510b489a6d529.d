@@ -1,0 +1,11 @@
+D:\exp\bad  apple\target\debug\deps\libbitflags-e76510b489a6d529.rmeta: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+D:\exp\bad  apple\target\debug\deps\bitflags-e76510b489a6d529.d: C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs:
+C:\Users\HP_Elitebook\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs:
